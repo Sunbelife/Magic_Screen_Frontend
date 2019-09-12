@@ -1,2 +1,0 @@
-# Magic_Screen_Frontend
-Magic_Screen_Frontend
